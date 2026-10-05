@@ -1,0 +1,65 @@
+[
+    {
+        "tool_pos_lps": [
+            18.0,
+            10.0,
+            15.0
+        ],
+        "closest_tumor_point_lps": [
+            5.00001717,
+            1.5,
+            3.5
+        ],
+        "minimum_margin_clearance_mm": 19.326,
+        "organ_capsule_distance_mm": 0.753,
+        "approach_unit_vector": [
+            -0.6727,
+            -0.4398,
+            -0.595
+        ],
+        "haptic_force_n": 0.0,
+        "alarm_state": "NOMINAL"
+    },
+    {
+        "tool_pos_lps": [
+            6.0,
+            0.0,
+            5.0
+        ],
+        "closest_tumor_point_lps": [
+            4.50001717,
+            -0.5,
+            4.0
+        ],
+        "minimum_margin_clearance_mm": 1.871,
+        "organ_capsule_distance_mm": 17.505,
+        "approach_unit_vector": [
+            -0.8018,
+            -0.2673,
+            -0.5345
+        ],
+        "haptic_force_n": 11.33,
+        "alarm_state": "CRITICAL_PERFORATION_RISK"
+    },
+    {
+        "tool_pos_lps": [
+            2.0,
+            -1.0,
+            2.0
+        ],
+        "closest_tumor_point_lps": [
+            3.50001717,
+            -2.5,
+            4.0
+        ],
+        "minimum_margin_clearance_mm": 2.915,
+        "organ_capsule_distance_mm": 18.521,
+        "approach_unit_vector": [
+            0.5145,
+            -0.5145,
+            0.686
+        ],
+        "haptic_force_n": 6.63,
+        "alarm_state": "CRITICAL_PERFORATION_RISK"
+    }
+]

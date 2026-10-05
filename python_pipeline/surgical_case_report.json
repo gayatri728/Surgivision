@@ -1,0 +1,13 @@
+{
+    "case_id": "CASE_1790420080",
+    "total_duration_sec": 145.86,
+    "total_frames_recorded": 4372,
+    "sampling_frequency_hz": 30.0,
+    "min_resection_margin_mm": 15.79,
+    "mean_resection_margin_mm": 18.42,
+    "max_haptic_resistance_n": 0.0,
+    "warning_boundary_entries": 0,
+    "critical_margin_breaches": 0,
+    "surgical_safety_index": 100.0,
+    "telemetry_log_path": "session_telemetry_1790420080.csv"
+}

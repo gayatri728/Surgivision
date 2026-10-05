@@ -1,0 +1,12 @@
+/[Uu]nity_project/[Ll]ibrary/
+/[Uu]nity_project/[Tt]emp/
+/[Uu]nity_project/[Oo]bj/
+/[Uu]nity_project/[Bb]uild/
+/[Uu]nity_project/[Bb]uilds/
+/[Uu]nity_project/[Ll]ogs/
+/[Uu]nity_project/[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+python_pipeline/session_telemetry_*.csv
+!python_pipeline/session_telemetry_1790419665.csv
